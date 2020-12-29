@@ -3,4 +3,6 @@
   <p>📰 A simple news aggregator in Go</p>
 </div>
 
-<img align="center" src="app-ss.png" width="350">
+<div align="center">
+  <img align="center" src="app-ss.png" width="500">
+</div>
